@@ -1,0 +1,12 @@
+.icon{
+	width: 50px;
+}
+.icon1{
+ width: 100px;
+}
+img:hover {
+    
+    animation: shake 0.5s;
+    
+    animation-iteration-count: infinite;
+}
